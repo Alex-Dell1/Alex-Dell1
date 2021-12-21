@@ -11,6 +11,9 @@ As I finished High School, my University journey started. I first enrolled into 
 ## My interests ##
 I tend to be interested in anything that is somehow involved with Computer Science. Between all those topics, Logic programming, Quantum Computing and Computational Complexity are definitely on the top of the list.
 
+## What will you find here ##
+Here, you'll find some of the university projects I am most proud of. I hope you can find them in any way useful and/or interesting. If there is something which doesn't quite convince you or for any other reason, feel free to contact me!
+
 <!---
 Alex-Dell1/Alex-Dell1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
