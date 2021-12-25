@@ -4,11 +4,14 @@ Hello there! I am **Alex Della Schiava**, a clumsy Italian guy passionate about 
 I have been studying Computer Science for a good part of my life, and I do not intend to stop anytime soon (I still intend to complete my studies though!).
 
 ## My interests ##
-Between my favourite interests are: Logic Programming, Artificial General Intelligence, Quantum Computing and Computational Complexity.
-However, I am always happy to dive into anything new as long as it is even partly related to Computer Science.
+I am always happy to dive into anything new, even if only partly related to Computer Science. However, if I really had to make a list of my interests, it would definitely include:
+- Logic Programming;
+- Artificial General Intelligence;
+- Quantum Computing; 
+- Computational Complexity.
 
 ## What will you find here ##
-Here, you'll find some of the university projects I am most proud of. I hope you can find them in any way useful and/or interesting. If there is something which doesn't quite convince you or for any other reason, feel free to contact me!
+Here, you'll find some of my university projects I am most proud of. I hope you can find them in any way useful and/or interesting. If there is something which doesn't quite convince you or for any other reason, feel free to contact me!
 
 <!---
 Alex-Dell1/Alex-Dell1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
