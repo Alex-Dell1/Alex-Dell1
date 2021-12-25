@@ -6,6 +6,7 @@ I have been studying Computer Science for a good part of my life, and I do not i
 ## My interests ##
 I am always happy to dive into anything new, even if only partly related to Computer Science. However, if I really had to make a list of my interests, it would definitely include:
 - Logic Programming;
+- Constraint Programming;
 - Artificial General Intelligence;
 - Quantum Computing; 
 - Computational Complexity.
