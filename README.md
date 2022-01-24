@@ -8,8 +8,8 @@ I have been studying Computer Science for a good part of my life, and I do not i
 I moved my first steps into this amazing field in High School, where I got quite confident with the art of coding. I had the chance to learn a variety of programming languages, in particular, I became very familiar with Python and HTML/PHP.<br>
 During these years I've also learned some results concerning theoretical computer science, but I was not ready for those (_yet..._).<br><br>
 
-As I finished High School, my University journey started. I enrolled into a Bachelor's Degree in Web and Multimedia Technologies at the University of Udine.<br>
-As previously mentioned, I still wasn't ready for "pure" Computer Science, I didn't dislike it, but I struggled understanding what was the point behind it, I remember many people posing the same question: when am I ever gonna use this stuff in the future? So this course choice allowed to still learn some of its results but with the idea of focussing more onto practical skills, more specifically web development.<br>
+As I finished High School, my University journey started. I enrolled into a Bachelor's Degree in Web and Multimedia Technologies at the University of Udine. At the time, all I knew was that I liked coding and I wanted to do more of it and better than ever before.<br>
+It didn't take too long for my expectations to be mercilessly crushed: all my freshman courses were related to maths or communication. "It's all right, no worries, it's probably just the introductory part!", NOPE! Theoretical courses kept on coming. The only ones I used to find interesting were about theoretical computer science, although everytime the same question would pop up: "how are these things in any way useful?". 
 
 A couple of years went by and I was finding the subjects of my course less and less stimulating. Yes, I was coding and that was okay, but I wasn't really improving as a programmer either.  I felt like all was left to learn was a bunch of libraries which I would eventually forget 3 months after. And so I spent my last Bachelor's year wondering: what do I actually like doing?<br>
 
