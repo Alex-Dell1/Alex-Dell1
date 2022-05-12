@@ -1,4 +1,4 @@
-### Hi! I am Alex :bowtie: ###
+### Hey! It's me, Alex! :bowtie: ###
 
 - :computer: Clumsy Computer Science student
 - 🧑‍🎓 MsC in Artificial Intelligence & Cybersecurity in both Udine 🇮🇹 and Klagenfurt 🇦🇹
