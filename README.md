@@ -1,7 +1,7 @@
 ### Hey! It's me, Alex! :bowtie: ###
 
 - :computer: Clumsy Computer Science student
-- 🧑‍🎓 MsC in Artificial Intelligence & Cybersecurity in both Udine 🇮🇹 and Klagenfurt 🇦🇹
+- 🧑‍🎓 MSc in Artificial Intelligence & Cybersecurity in both Udine 🇮🇹 and Klagenfurt 🇦🇹
 - :mag_right: Interested in Quantum Computing and Logic Programming :mag:
 - 🔭 Here you can find all the projects I am most proud of.
 <!---
