@@ -1,7 +1,7 @@
 ### Hey! It's me, Alex! :bowtie: ###
 
 - :computer: Clumsy Computer Science student.
-- 🧑‍🎓 MSc in Computer Science: Artificial Intelligence & Cybersecurity in both Udine 🇮🇹 and Klagenfurt 🇦🇹
+- 🧑‍🎓 As of March 17th 2023, I have completed my International Double Master's Degree in Artificial Intelligence & Cybersecurity in both Udine 🇮🇹 and Klagenfurt 🇦🇹
 - :mag_right: Interested in Quantum Computing and anything concerning Theoretical Computer Science.
 - 🔭 Here you can find all the projects I am most proud of.
 
