@@ -5,7 +5,7 @@
 - :mag_right: My main interests are Quantum Computing, Complexity Theory.
 - 🔭 Here you can find all the projects I am most proud of.
 
-In my profile pic, you can see me performing photosynthesis in Tokyo, Japan 🇯🇵
+In my profile pic, you can see me fully enjoying Tokyo, Japan 🇯🇵
 <!---
 Alex-Dell1/Alex-Dell1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
