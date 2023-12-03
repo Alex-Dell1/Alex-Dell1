@@ -2,7 +2,7 @@
 
 - :computer: Clumsy Computer Science student.
 - 🧑‍🎓 As of March 17th 2023, I have completed my International Double Master's Degree in Computer Science at both the universities of Udine 🇮🇹 and Klagenfurt 🇦🇹
-- :mag_right: My main interests are Quantum Computing, Complexity Theory.
+- :mag_right: My main interests involve Quantum Computing, Complexity Theory.
 - 🔭 Here you can find all the projects I am most proud of.
 
 In my profile pic, you can see me fully enjoying Tokyo, Japan 🇯🇵
