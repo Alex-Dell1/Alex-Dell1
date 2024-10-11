@@ -1,6 +1,6 @@
 ### Hey! It's me, Alex! :bowtie: ###
 
-- :computer: Clumsy Computer Science student.
+- :computer: PhD student in Mathematics at Nagoya University, Japan 🇯🇵.
 - 🧑‍🎓 As of March 17th 2023, I have completed my International Double Master's Degree in Computer Science at both the universities of Udine 🇮🇹 and Klagenfurt 🇦🇹
 - :mag_right: My main interests involve Quantum Computing, Complexity Theory.
 - 🔭 Here you can find all the projects I am most proud of.
